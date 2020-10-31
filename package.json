@@ -1,0 +1,30 @@
+{
+  "name": "screensavers-cool",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "main": "pages/index.js",
+  "dependencies": {
+    "next": "^9.2.2",
+    "styled-components": "^5.0.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "webpack": "^4.41.6"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.10.7"
+  },
+  "description": "Screensavers.cool",
+  "repository": "https://github.com/soffes/screensavers.cool",
+  "homepage": "https://screensavers.cool",
+  "author": {
+    "name": "Sam Soffes",
+    "email": "sam@soff.es",
+    "url": "https://soff.es"
+  },
+  "license": "MIT"
+}

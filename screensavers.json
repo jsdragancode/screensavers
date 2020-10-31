@@ -1,0 +1,63 @@
+{
+  "mine": [
+    {
+      "name": "Clock",
+      "description": "Simple clocks inspried by Braun watches",
+      "github_user": "soffes",
+      "github_repo": "clock-saver",
+      "url": "https://github.com/soffes/clock-saver",
+      "dribbble_url": "http://dribbble.com/shots/1460483-Clock-Screensaver"
+    },
+    {
+      "name": "Langton’s Ant",
+      "description": "Deterministic chaos",
+      "github_user": "soffes",
+      "github_repo": "langtons-ant",
+      "url": "https://github.com/soffes/langtons-ant"
+    },
+    {
+      "name": "Countdown",
+      "description": "Countdown to your big day",
+      "github_user": "soffes",
+      "github_repo": "Countdown",
+      "url": "https://github.com/soffes/Countdown",
+      "product_hunt_url": "https://www.producthunt.com/tech/countdown-screen-saver"
+    },
+    {
+      "name": "Motivation",
+      "description": "Terrifyingly see your life pass you by",
+      "github_user": "soffes",
+      "github_repo": "Motivation",
+      "url": "https://github.com/soffes/Motivation"
+    },
+    {
+      "name": "What Color Is It",
+      "description": "Time of day as a color",
+      "github_user": "soffes",
+      "github_repo": "WhatColorIsIt",
+      "url": "https://github.com/soffes/WhatColorIsIt",
+      "blog_post_url": "https://blog.soff.es/what-color-is-it"
+    }
+  ],
+  "others": [
+    {
+      "name": "Aerial",
+      "description": "Apple TV aerial screensaver",
+      "github_user": "JohnCoates",
+      "github_repo": "Aerial",
+      "url": "https://github.com/JohnCoates/Aerial"
+    },
+    {
+      "name": "Saver Screensson",
+      "description": "Geometric, colors, awesome",
+      "url": "http://saver.is"
+    },
+    {
+      "name": "Padbury Clock",
+      "description": "Elegant, minimalist clock",
+      "url": "http://padbury.me/clock/",
+      "dribbble_url": "https://dribbble.com/shots/1376058-Padbury-Clock-Screen-Saver",
+      "product_hunt_url": "https://www.producthunt.com/tech/padbury-clock-screensaver"
+    }
+  ]
+}
